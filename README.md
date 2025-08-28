@@ -85,7 +85,5 @@ The game features:
 - Visual hover effects
 - Win/draw notifications
 
-## Contributing
 
-Feel free to fork this repository and submit pull requests for improvements!
 
